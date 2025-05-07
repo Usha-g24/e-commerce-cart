@@ -1,0 +1,1 @@
+A responsive Product Listing Page built with ReactJS, Redux Toolkit, and Tailwind CSS. Users can view products, add them to the cart, and manage their cart with real-time updates. Data is fetched from FakeStoreAPI. The app uses React Router for navigation and works smoothly on all screen sizes.
